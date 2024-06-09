@@ -9,8 +9,7 @@ KABASSINA Gnimdou Ange
 GATCHA Nadia
 
 ## Données 
-L’ensembles des données ont été téléchargé depuis la plateforme Kaggle (à partir du mail). Elle est constitué de 7023 images IRM (Imagerie par Résonance Magnétique) de cerveau humain qui sont classées en 4 classes : gliome - méningiome - pas de tumeur et hypophyse .
-![image](https://github.com/GnimdouA/Detection-de-tumeurs-c-r-brales-partir-d-image-d-IRM/assets/100243722/c82bf050-5b48-49ec-adcf-715ca23db2b8)
+L’ensembles des données ont été téléchargé depuis la plateforme Kaggle (à partir du mail). Elle est constitué de 7023 images IRM (Imagerie par Résonance Magnétique) de cerveau humain qui sont classées en 4 classes : 'glioma', 'meningioma', 'notumor', 'pituitary'.
 
 
 ## Contenu du Projet
