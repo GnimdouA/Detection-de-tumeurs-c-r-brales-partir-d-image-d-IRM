@@ -6,7 +6,7 @@ Ce projet utilise des techniques de traitement d'images et de machine learning p
 ## Auteurs
 DIOP Fatou
 KABASSINA Gnimdou Ange
-GATCHA Nadia
+NGATCHA NOUTCHA Stephy Nadia
 
 ## Données 
 L’ensembles des données ont été téléchargé depuis la plateforme Kaggle (à partir du mail). Elle est constitué de 7023 images IRM (Imagerie par Résonance Magnétique) de cerveau humain qui sont classées en 4 classes : 'glioma', 'meningioma', 'notumor', 'pituitary'.
